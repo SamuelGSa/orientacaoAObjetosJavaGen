@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author litllerat
+ *
+ */
+module orientacaoAObjetosJavaGen {
+}
