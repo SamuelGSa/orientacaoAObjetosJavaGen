@@ -41,5 +41,9 @@ public class Aviao {
 	public boolean isParticular() {
 		return particular;
 	}
+	
+	void voar() {
+		System.out.println("Estou Voando");		
+	}
 
 }
